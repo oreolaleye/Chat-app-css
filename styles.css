@@ -193,6 +193,31 @@ span{
   margin
   }
   
+/*Media Query*/
+@media (max-width:400px){
+  h1{
+    font-size:34px;
+    }
+  .rectangle{
+    right:300px;
+    }
+  .rectangle-right{
+    bottom:40%;
+    left:40%;
+    }
+  .chat-box{
+    left:90px;
+    }
+  .description{
+    text-align:center;
+    width:300px;
+    left:10%;
+    bottom:1150px;
+    }
+  .attribution{
+    bottom:900px;
+  }
+}
   
   
   
