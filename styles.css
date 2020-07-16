@@ -194,7 +194,7 @@ span{
   }
   
 /*Media Query*/
-@media (max-width:400px){
+@media (max-width:600px){
   h1{
     font-size:34px;
     }
